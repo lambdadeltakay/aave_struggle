@@ -4,4 +4,4 @@ Generates bad aave from a list of aave text extracted from tweets as a tumblr bo
 
 ## LICENSE
 
-Note the license only applies to items inside the `src` directory, I do not own the right to the phrases features in the config file.
+Note the license only applies to items inside the `src` directory, I do not own the right to the phrases featured in the config file.
