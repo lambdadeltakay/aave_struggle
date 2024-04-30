@@ -25,7 +25,7 @@ impl<T: Rng> Generator<T> {
 
     pub fn generate(&mut self) -> String {
         let mut final_string = String::new();
-        let token_count = self.rng.gen_range(10..25);
+        let token_count = self.rng.gen_range(5..35);
         let mut generation = self.chain.generate_str(&mut self.rng, token_count).unwrap();
 
         while let Some(word) = generation.first() {
