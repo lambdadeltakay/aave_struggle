@@ -1,4 +1,4 @@
-# AAVE Struggle bot
+# Mayobot
 
 Generates bad aave from a list of aave text extracted from tweets as a tumblr bot
 
